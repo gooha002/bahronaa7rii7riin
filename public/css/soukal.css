@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.up1 img{
+    width: 100%;
+}
+
+.pp1 img{
+    width: 100%;
+}
+.indo img{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.boto img{
+    width: 100%;
+}
+
+
+button{
+    font-size: 18px;
+    font-weight: 600;
+    padding: .8rem 6rem;
+    
+    background-color: #C3191F;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    justify-self: center;
+    align-self: center;
+    width: 84%;
+    margin-left: 8%;
+    margin-bottom: 130px;
+}
+
+
+
+
+
+
+.incc3 img{
+    width: 100%;
+}
+
+.form1{
+   
+    padding: 20px;
+    display: grid;
+    
+}
+.form1 p{
+    justify-self: self-end;
+}
+.form1 img{
+    width: 100%;
+    margin-bottom: 14px;
+}
+input{
+    margin-top: 10px;
+    border: 1px solid #bfbdbd !important;
+border-radius: .25rem;
+
+display: block;
+font-size: 14px;
+font-weight: 400;
+height: 45px;
+
+
+transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+margin-bottom: 17px;
+width: 100%;
+outline: none;
+color: #585858;
+padding: 6px 12px 7px;
+}
+
+.btn2{
+    width: 100%;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.mm{
+    margin-right: 15px;
+}
+
+.exp{
+    display: flex;
+}
+
+
+.blap{
+    margin-top: 80px;
+}
